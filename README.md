@@ -8,4 +8,4 @@ Esta aplicação visa a utilização de algumas funções da biblioteca apenas p
 
 ## Link do site:
 
-[Repositório](https://github.com/python) - Site da aplicação.
+[Repositório](https://eronice-mou-atividade1-teste-streamlit-app-ekhuok.streamlit.app/) - Site da aplicação.
