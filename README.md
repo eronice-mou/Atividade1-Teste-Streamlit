@@ -9,3 +9,5 @@ Esta aplicação visa a utilização de algumas funções da biblioteca apenas p
 ## Link do site:
 
 [Repositório](https://eronice-mou-atividade1-teste-streamlit-app-ekhuok.streamlit.app/) - Site da aplicação.
+
+[Video](https://eronice-mou-atividade1-teste-streamlit-app-ekhuok.streamlit.app/) - Como publicar através do Streamlit
